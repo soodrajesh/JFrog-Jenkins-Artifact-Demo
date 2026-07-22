@@ -1,0 +1,15 @@
+.env
+.env.local
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+node_modules/
+__pycache__/
+*.pyc
+venv/
+dist/
+build/
+.cache/
